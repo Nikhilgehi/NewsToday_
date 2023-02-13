@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Corinne Ramey, James Fanelli, Dave Michaels, Alexander Saeedy, Vicky Ge Huang",
+    "title": "FTX's Sam Bankman-Fried Charged With Criminal Fraud, Conspiracy - The Wall Street Journal",
+    "description": "Charges are latest twist in saga that has rattled world of cryptocurrencies",
+    "url": "https://www.wsj.com/articles/ftxs-sam-bankman-fried-charged-with-criminal-fraud-conspiracy-11670951131",
+    "urlToImage": "https://images.wsj.net/im-685177/social",
+    "publishedAt": "2022-12-14T02:03:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Fed Looms After Rally Fades; Tesla Dives As Musk Admits This - Investor's Business Daily",
+    "description": "GE leads 3 stocks finding key support near buy points.",
+    "url": "https://www.investors.com/market-trend/stock-market-today/fed-rate-hike-looms-after-market-rally-fizzles-tesla-stock-hits-new-lows-as-elon-musk-admits-this/",
+    "urlToImage": "https://www.investors.com/wp-content/uploads/2021/06/Stock-elonmusk-02-shutt.jpg",
+    "publishedAt": "2022-12-14T00:41:00Z",
+    "content": "Dow Jones futures tilted higher overnight, along with S&amp;P 500 futures and Nasdaq futures. All eyes await the Federal Reserve meeting announcement and Fed chief Jerome Powell. Fed rate hike outloo… [+10082 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Wall St rises after CPI data but Fed concerns persist - Reuters",
+    "description": "U.S. stocks rose on Tuesday after a unexpectedly small consumer price increase buoyed optimism that the Federal Reserve could soon dial back its inflation-taming interest rate hikes, but concerns remained the central back could stay aggressive.",
+    "url": "https://www.reuters.com/markets/us/futures-rise-ahead-cpi-report-fed-rate-decision-2022-12-13/",
+    "urlToImage": "https://www.reuters.com/resizer/OsOJ0uBHhaI50tjRHcX3yc3C2jE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IVTBPF5I6ZMVNMGXVTCOJQTREY.jpg",
+    "publishedAt": "2022-12-14T00:33:00Z",
+    "content": "NEW YORK, Dec 13 (Reuters) - U.S. stocks rose on Tuesday after a unexpectedly small consumer price increase buoyed optimism that the Federal Reserve could soon dial back its inflation-taming interest… [+3841 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Aislinn Murphy",
+    "title": "Subaru issues recall of 271,000 SUVs because of 'increased risk' of fire - Fox Business",
+    "description": "The National Highway Traffic Safety Administration said on Tuesday that Subaru issued a voluntary recall of over 271,000 Ascent sport utility vehicles.",
+    "url": "https://www.foxbusiness.com/lifestyle/subaru-issues-recall-271k-suvs-because-increased-risk-fire",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/AP20112485447725.jpg?ve=1&tl=1",
+    "publishedAt": "2022-12-14T00:32:05Z",
+    "content": "The National Highway Traffic Safety Administration (NHTSA) said Tuesday that Subaru issued a voluntary recall of over 271,000 Ascent SUVs.\r\nSubaru launched the recall in response to certain Ascent SU… [+2283 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Jalopnik"
+    },
+    "author": "Ryan Erik King",
+    "title": "United Just Placed the Biggest Order for Widebody Planes in U.S. History - Jalopnik",
+    "description": "The U.S. carrier placed an order for 100 Boeing 787 Dreamliners, with options to purchase 100 more.",
+    "url": "https://jalopnik.com/united-just-placed-the-biggest-order-for-widebody-plane-1849889875",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7effd12876492517e7b5579b56df4c35.jpg",
+    "publishedAt": "2022-12-14T00:30:00Z",
+    "content": "United Airlines announced it has placed an order with Boeing for 100 787 Dreamliners, with options to buy another 100 planes. Thats the largest single order of widebody airliners by a U.S. carrier in… [+1971 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Eric Revell",
+    "title": "Where did the money go in FTX crypto collapse? - Fox Business",
+    "description": "The collapse of crypto firm FTX and former CEO Sam Bankman-Fried's arrest has left many wondering where the money went.",
+    "url": "https://www.foxbusiness.com/markets/where-did-money-go-ftx-crypto-collapse",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/11/0/0/bankman-fried.jpg?ve=1&tl=1",
+    "publishedAt": "2022-12-13T23:27:49Z",
+    "content": "The collapse of FTX, a cryptocurrency exchange once valued at $32 billion — and founder Sam Bankman-Fried's arrest Monday on a number of charges alleging he defrauded his investors — have prompted ma… [+5919 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Five takeaways from the fusion energy breakthrough - The Hill",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzc3NDA4Mi1maXZlLXRha2Vhd2F5cy1mcm9tLXRoZS1mdXNpb24tZW5lcmd5LWJyZWFrdGhyb3VnaC_SAVxodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzLzM3NzQwODItZml2ZS10YWtlYXdheXMtZnJvbS10aGUtZnVzaW9uLWVuZXJneS1icmVha3Rocm91Z2gvYW1wLw?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-12-13T23:26:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Barron's"
+    },
+    "author": "Al Root",
+    "title": "Tesla Stock Fell Again. Here's Where It Could Be Headed Next. - Barron's",
+    "description": "Tesla stock is down about 30% since Elon Musk completed his purchase of Twitter. Technical analysts say the weakness goes beyond anything related to social media.",
+    "url": "https://www.barrons.com/articles/tesla-stock-twitter-technical-analysis-51670956311",
+    "urlToImage": "https://images.barrons.com/im-684771/social",
+    "publishedAt": "2022-12-13T22:43:00Z",
+    "content": "Tesla\r\nstock is down again, and investors once more are pointing fingers at Twitter. Fixing Twitter might not be enough to fix shares of the electric-vehicle giant, though. Technical stock market ana… [+245 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cointelegraph"
+    },
+    "author": "Judith BannermanQuist",
+    "title": "Crypto community members discuss bank run on Binance - Cointelegraph",
+    "description": "The bank run on Binance comes only a month after CZ allegedly triggered a bank run on rival exchange FTX.",
+    "url": "https://cointelegraph.com/news/crypto-community-members-discuss-bank-run-on-binance",
+    "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/af4e4301-7ce2-496d-8cd5-158825fa889e.jpg",
+    "publishedAt": "2022-12-13T22:41:15Z",
+    "content": "Within the past 24 hours, cryptocurrency exchange Binance has seen outflows of over $1.14 billion due to rising FUD or fear, uncertainty and doubt within the crypto ecosystem. \r\nAccording to Binance … [+3533 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Barron's"
+    },
+    "author": "Al Root",
+    "title": "Elon Musk Loses Crown as World's Richest. It's All About Tesla Stock. - Barron's",
+    "description": "The CEO of Tesla, Twitter, and SpaceX now ranks behind Bernard Arnault, the chief executive of LVMH Moët Hennessy Louis Vuitton, in terms of wealth.",
+    "url": "https://www.barrons.com/articles/tesla-twitter-elon-musk-net-worth-richest-person-51670950783",
+    "urlToImage": "https://images.barrons.com/im-684527/social",
+    "publishedAt": "2022-12-13T22:32:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jennifer Elias",
+    "title": "Google execs warn company's reputation could suffer if it moves too fast on AI-chat technology - CNBC",
+    "description": "Google employees ask at a recent all-hands meeting if the popularity of AI chatbots represents a \"missed opportunity\" for the company.",
+    "url": "https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1670970512&w=1920&h=1080",
+    "publishedAt": "2022-12-13T22:28:32Z",
+    "content": "Google senior fellow Jeff Dean speaks at a 2017 event in China.\r\nGoogle employees are seeing all the buzz around ChatGPT, the artificial intelligence chatbot that was released to the public at the en… [+5852 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Kyle Barr",
+    "title": "14 Must Have Items From Twitter's Office Supply Fire Sale - Gizmodo",
+    "description": "Get yourself a genuine giant blue bird or even a hand-crank deli slicer, or you could perhaps snag a chair that might have seated a former Tweep.",
+    "url": "https://gizmodo.com/twitter-auction-elon-musk-layoffs-blue-bird-1849889191",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/06d0e90ec662cdfe7ab80272ca6aee41.jpg",
+    "publishedAt": "2022-12-13T22:10:00Z",
+    "content": "Does this spark joy? So asked the famed Japanese consultant Marie Kondo as a way of thinking about decluttering crowded living spaces. The best way to know what sparks joy, Kondo said, is to feel the… [+2900 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Breck Dumas",
+    "title": "FTX CEO questions actions by Bahamian authorities amid bankruptcy - Fox Business",
+    "description": "New FTX CEO John Ray III said his team is investigating actions taken by the Bahamian government amid the crypto exchange's bankruptcy, saying authorities are uncooperative.",
+    "url": "https://www.foxbusiness.com/politics/ftx-ceo-questions-actions-bahamian-authorities-bankruptcy",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/john-ray.jpg?ve=1&tl=1",
+    "publishedAt": "2022-12-13T21:50:49Z",
+    "content": "The new CEO of FTX told U.S. lawmakers Tuesday that his team has received \"extraordinary\" pushback from authorities in the Bahamas, where the fallen crypto exchange is based, and called into question… [+3122 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Peter Loftus",
+    "title": "Moderna's mRNA Cancer Vaccine Shows Promise in Preliminary Study - The Wall Street Journal",
+    "description": "Shot combined with Merck immunotherapy reduced risk of relapse in people with skin cancer in study",
+    "url": "https://www.wsj.com/articles/modernas-mrna-cancer-vaccine-shows-promise-in-preliminary-study-11670906379",
+    "urlToImage": "https://images.wsj.net/im-684080/social",
+    "publishedAt": "2022-12-13T21:47:00Z",
+    "content": "A customized Moderna Inc. vaccine helped ward off the recurrence of melanoma in a mid-stage trial, a milestone in long-running efforts to use the shots as treatments and a big step in the biotechs as… [+247 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "https://www.theguardian.com/profile/kari-paul,https://www.theguardian.com/profile/dominic-rushe,https://www.theguardian.com/profile/joannawalters",
+    "title": "Sam Bankman-Fried charged with fraud as first congressional hearing closes – as it happened - The Guardian",
+    "description": "US Congress commences hearing on the collapse of the cryptocurrency exchange, less than 24 hours after its former chief executive was arrested",
+    "url": "https://www.theguardian.com/business/live/2022/dec/13/house-committee-john-j-ray-iii-ftx-sam-bankman-fried-arrest-cryptocurrency-bankruptcy-latest-updates",
+    "urlToImage": "https://i.guim.co.uk/img/media/1966a2d73178521a7b9a4ecea44da298e27d6ad2/0_232_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=994d4c6702709ea925243197e48ced09",
+    "publishedAt": "2022-12-13T20:46:54Z",
+    "content": "FTX collapse: the latest in the downfall of the cryptocurrency exchange\r\nIt has been a busy day of developments in the fallout of FTX, the company that was once the worlds second-largest cryptocurren… [+12555 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Lifehacker.com"
+    },
+    "author": "Daniel Oropeza",
+    "title": "Throw Away These Recalled COVID Test Kits - Lifehacker",
+    "description": "Over 11,000 COVID test kits are being recalled for false negative results.",
+    "url": "https://lifehacker.com/throw-away-these-recalled-covid-test-kits-1849889056",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/36312e1ab736025ac9490e4ffcdc620d.jpg",
+    "publishedAt": "2022-12-13T20:00:00Z",
+    "content": "The diagnostic testing company Detect has voluntarily recalled more than 11,000 of their Detect COVID-19 test kits, due to an increased chance that the tests may give false negative results. As many … [+1029 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Jennifer Schonberger",
+    "title": "Fed preview: Central bank set to slow rate hikes at final meeting of 2022 - Yahoo Finance",
+    "description": "The final Federal Reserve meeting of the year will conclude on Wednesday, with the central bank set to signal the beginning of the end of its current rate...",
+    "url": "https://finance.yahoo.com/news/fed-preview-central-bank-set-to-slow-rate-hikes-at-final-meeting-of-2022-194812853.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/nR.cSL2Y3mK0wYu2RRtd8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/933d81b0-7764-11ed-bff5-99aa6b6fdbd1",
+    "publishedAt": "2022-12-13T19:48:12Z",
+    "content": "The Federal Reserve is expected to slow the pace of its torrid interest rate hikes when it concludes its two-day policy meeting Wednesday, as consumer prices have showed evidence of cooling for two s… [+4350 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Strikes: Disruption begins as freezing weather grips UK - Channel 4 News",
+    "description": "Britain's Christmas of discontent began in earnest today as the railways ground to a halt for the first - but not the last - time this month.(Subscribe: http...",
+    "url": "https://www.youtube.com/watch?v=AySEuWW84yI",
+    "urlToImage": "https://i.ytimg.com/vi/AySEuWW84yI/maxresdefault.jpg",
+    "publishedAt": "2022-12-13T19:45:23Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Bill Peters",
+    "title": "FTX collapse isn’t just Coinbase’s problem — it’s also Robinhood’s - MarketWatch",
+    "description": "Robinhood’s crypto segment faces risks ‘given substantial price declines and material deterioration in investor confidence,’ analyst says",
+    "url": "https://www.marketwatch.com/story/ftx-collapse-isnt-just-coinbases-problem-its-also-robinhoods-11670958554",
+    "urlToImage": "https://images.mktw.net/im-684853/social",
+    "publishedAt": "2022-12-13T19:09:00Z",
+    "content": "Robinhood Markets Inc.s turnaround efforts are likely to grate up against the implosion of crypto exchange FTX and the broader cryptocurrency market, one analyst said late Monday, shortly before the … [+3161 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jonathan Vanian",
+    "title": "Why tech insiders are so excited about ChatGPT, a chatbot that answers questions and writes essays - CNBC",
+    "description": "Since OpenAI released ChatGPT last month, the text-based artificial intelligence tool has gone viral, attracting a million users in its first five days.",
+    "url": "https://www.cnbc.com/2022/12/13/chatgpt-is-a-new-ai-chatbot-that-can-answer-questions-and-write-essays.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106971056-1636056957357-gettyimages-1173441590-TECHCRUNCH_DISRUPT.jpeg?v=1670957539&w=1920&h=1080",
+    "publishedAt": "2022-12-13T18:52:19Z",
+    "content": "For his day job, Tobias Zwingmann is the managing partner of RAPYD.AI, a German consulting firm that helps clients make use of artificial intelligence. On the side, Zwingmann teaches online courses o… [+9729 chars]"
+    }
+    ]
+    }
